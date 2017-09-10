@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../AWSMysqlInstance/spring-boot.iml" filepath="$PROJECT_DIR$/../AWSMysqlInstance/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AWSDbInstance.iml" filepath="$PROJECT_DIR$/.idea/AWSDbInstance.iml" />
     </modules>
   </component>
 </project>
